@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Adrián Nicolás (Oviedo 🇪🇦, 1989) and I'm a software developer since 2017.
+
 <!--
 **adnicolas/adnicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
