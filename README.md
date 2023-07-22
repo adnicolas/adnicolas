@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun facts
   - [XII Gloria Fuertes Young Poetry Prize (2011)](https://www.torremozas.com/epages/ea0701.sf/es_ES/?ObjectPath=/Shops/ea0701/Products/GF020)
 
-### Languages 💻
+### Languages, frameworks & tools 💻
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/_/eee" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/angular/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs/_/eee" />
 </div>
