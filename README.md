@@ -21,7 +21,23 @@ Here are some ideas to get you started:
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/_/eee" />  
   <img height="32" width="32" src="https://cdn.simpleicons.org/angular/_/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react/_/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gulp/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED/eee" />
+
+</div>
+
+### GIS
+
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/arcgis/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/carto/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cesium/_/eee" />
 </div>
