@@ -73,14 +73,14 @@ Here are some ideas to get you started:
   <a href="https://gitea.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/gitea/#609926/eee" /></a>
 </div>
 
-### SQL & DDBB
+### SQL & DDBB 📃
 
 <div>
   <a href="https://www.postgresql.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1/eee" /></a>
   <a href="https://www.oracle.com/es/database/"><img height="32" width="32" src="https://cdn.simpleicons.org/oracle/#F80000/eee" /></a>
 </div>
 
-### Tools
+### Tools 🛠
 
 <div>
   <a href="https://nx.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/nx/#143055/eee" /></a>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
   <a href="https://gulpjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/gulp/#CF4647/eee" /></a>
 </div>
 
-### GIS
+### GIS 🌍
 
 <div>
   <a href="https://openlayers.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/openlayers/#1F6B75/eee" /></a>
