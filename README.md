@@ -125,3 +125,6 @@ Here are some ideas to get you started:
   <a href="https://ubuntu.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/#E95420/eee" /></a>
   <a href="https://www.microsoft.com/es-es/windows?r=1"><img height="32" width="32" src="https://cdn.simpleicons.org/windows/#0078D6/eee" /></a>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
