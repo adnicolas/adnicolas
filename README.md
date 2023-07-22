@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### Testing & QA
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/cypress/#17202C/eee" />
+  <a href="https://www.cypress.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/cypress/white" /></a>
   <img height="32" width="32" src="https://cdn.simpleicons.org/jest/#C21325/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/sonarlint/#CB2029/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/sonarqube/#4E9BCD/eee" />
