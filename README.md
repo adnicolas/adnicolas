@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gitignoredotio/#204ECF/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab/#FC6D26/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gitea/#609926/eee" />
@@ -94,8 +94,8 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman/#FF6C37/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/jsonwebtokens/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/hoppscotch/#31C48D/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/iconfinder/#1A1B1F/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/#111111/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/iconfinder/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/fontawesome/#528DD7/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gulp/#CF4647/eee" />
 </div>
