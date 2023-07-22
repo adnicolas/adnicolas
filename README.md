@@ -7,8 +7,6 @@ My name is Adrián Nicolás and I'm a software developer since 2017. Currently b
   <a href="mailto:anp9648@gmail.com?subject=[GitHub%20Profile]%20Adrian%20Nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335/eee" /></a>
 </div>
 
-Would you prefer to send me an [email](mailto:anp9648@gmail.com?subject=[GitHub%20Profile]%20Adrian%20Nicolas)?
-
 <!--
 **adnicolas/adnicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
