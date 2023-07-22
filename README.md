@@ -3,7 +3,7 @@
 My name is Adrián Nicolás and I'm a software developer since 2017.
 
 <div>
-  <a href="www.linkedin.com/in/adrian-nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2/eee" /></a>
+  <a href="https://linkedin.com/in/adrian-nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2/eee" /></a>
 </div>
 
 <!--
