@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/json/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/#FFFFFF" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/white" />
 </div>
 
 ### Frameworks
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/angular/#DD0031/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/express/#000000/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs/#E0234E/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/#512BD4/eee" />
 </div>
@@ -90,9 +90,9 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/webpack/#8DD6F9/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/#ECD53F/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/handlebarsdotjs/#000000/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/handlebarsdotjs/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman/#FF6C37/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jsonwebtokens/#000000/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jsonwebtokens/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/hoppscotch/#31C48D/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/iconfinder/#1A1B1F/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/#111111/eee" />
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/openlayers/#1F6B75/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/esri/#000000/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/esri/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/arcgis/#2C7AC3/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/here/#00AFAA/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/carto/#EB1510/eee" />
