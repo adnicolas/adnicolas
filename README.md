@@ -6,7 +6,7 @@ My name is Adrián Nicolás and I'm a software developer since 2017. Currently b
   <a href="https://linkedin.com/in/adrian-nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2/eee" /></a>
 </div>
 
-Send me an email [Adrián Nicolás](mailto:anp9648@gmail.com?subject=[GitHub Profile]%20Adrian%20Nicolas)
+Send me an email [Adrián Nicolás](mailto:anp9648@gmail.com?subject=[GitHub%20Profile]%20Adrian%20Nicolas)
 
 <!--
 **adnicolas/adnicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
