@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ### Languages 💻
 
 <div>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript/_/eee.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg/_/eee" />
 </div>
