@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun facts
   - [XII Gloria Fuertes Young Poetry Prize (2011)](https://www.torremozas.com/epages/ea0701.sf/es_ES/?ObjectPath=/Shops/ea0701/Products/GF020)
 
-### Languages, formats & server environments 💻
+### 📚 Languages, formats & server environments 💻
 
 <div>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E/eee" /></a>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <a href="https://daringfireball.net/projects/markdown/"><img height="32" width="32" src="https://cdn.simpleicons.org/markdown/gray" /></a>
 </div>
 
-### Frameworks
+### 🖼 Frameworks
 
 <div>
   <a href="https://angular.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/angular/#DD0031/eee" /></a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://dotnet.microsoft.com/es-es/learn/dotnet/what-is-dotnet"><img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/#512BD4/eee" /></a>
 </div>
 
-### Testing & QA
+### ✅ Testing & QA
 
 <div>
   <a href="https://www.cypress.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/cypress/gray" /></a>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://prettier.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/prettier/#F7B93E/eee" /></a>
 </div>
 
-### DevOps
+### 🌥 DevOps
 
 <div>
   <a href="https://www.docker.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED/eee" /></a>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <a href="https://www.jenkins.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/jenkins/#D24939/eee" /></a>
 </div>
 
-### Git ecosystem
+### 🔄 Git ecosystem
 
 <div>
   <a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/eee" /></a>
@@ -73,14 +73,14 @@ Here are some ideas to get you started:
   <a href="https://gitea.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/gitea/#609926/eee" /></a>
 </div>
 
-### SQL & DDBB 📃
+### 📃 SQL & DDBB 
 
 <div>
   <a href="https://www.postgresql.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1/eee" /></a>
   <a href="https://www.oracle.com/es/database/"><img height="32" width="32" src="https://cdn.simpleicons.org/oracle/#F80000/eee" /></a>
 </div>
 
-### Tools 🛠
+### 🛠 Tools
 
 <div>
   <a href="https://nx.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/nx/#143055/eee" /></a>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
   <a href="https://gulpjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/gulp/#CF4647/eee" /></a>
 </div>
 
-### GIS 🌍
+### 🌍 GIS
 
 <div>
   <a href="https://openlayers.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/openlayers/#1F6B75/eee" /></a>
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   <a href="https://qgis.org/es/site/"><img height="32" width="32" src="https://cdn.simpleicons.org/qgis/#589632/eee" /></a>
 </div>
 
-### OSs
+### 📀 OSs
 
 <div>
   <a href="https://en.wikipedia.org/wiki/Linux_kernel"><img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624/eee" /></a>
