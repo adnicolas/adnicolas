@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: XII Gloria Fuertes Young Poetry Prize (2011)
+- ⚡ Fun facts
+  - [XII Gloria Fuertes Young Poetry Prize (2011)](https://www.torremozas.com/epages/ea0701.sf/es_ES/?ObjectPath=/Shops/ea0701/Products/GF020)
