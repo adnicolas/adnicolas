@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Adrián Nicolás (Oviedo 🇪🇦, 1989) and I'm a software developer since 2017.
+My name is Adrián Nicolás and I'm a software developer since 2017.
+
+<div>
+  <a href="www.linkedin.com/in/adrian-nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2/eee" /></a>
+</div>
 
 <!--
 **adnicolas/adnicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +16,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...-->
+- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Fun facts
-  - [XII Gloria Fuertes Young Poetry Prize (2011)](https://www.torremozas.com/epages/ea0701.sf/es_ES/?ObjectPath=/Shops/ea0701/Products/GF020)
+- ⚡ Fun facts: -->
 
 ### 📚 Languages, formats & server environments
 
