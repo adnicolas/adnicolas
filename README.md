@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.simpleicons.org/sass/#CC6699/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120/eee" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/json/#FFFFFF" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/json/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/#FFFFFF" />
 </div>
 
