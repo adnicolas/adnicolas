@@ -2,6 +2,7 @@
 
 My name is Adrián Nicolás and I'm a software developer since 2017. Currently based in Madrid 🇪🇦
 
+Are you interested in my profile and want to contact me?
 <div>
   <a href="https://linkedin.com/in/adrian-nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2/eee" /></a>
   <a href="mailto:anp9648@gmail.com?subject=[GitHub%20Profile]%20Adrian%20Nicolas"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/#EA4335/eee" /></a>
