@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ### 🛠 Tools
 
 <div>
-  <a href="https://nx.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/nx/#143055/eee" /></a>
+  <a href="https://nx.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/nx/gray" /></a>
   <a href="https://www.npmjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/npm/#CB3837/eee" /></a>
   <a href="https://redux.js.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/redux/#764ABC/eee" /></a>
   <a href="https://storybook.js.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/storybook/#FF4785/eee" /></a>
