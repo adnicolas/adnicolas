@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/eee" /></a>
   <a href="https://sass-lang.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/sass/#CC6699/eee" /></a>
   <a href="https://www.python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB/eee" /></a>
+  <a href="https://go.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/go/#00ADD8/eee" /></a>
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120/eee" /></a>
   <a href="https://en.wikipedia.org/wiki/JSON"><img height="32" width="32" src="https://cdn.simpleicons.org/json/gray" /></a>
   <a href="https://daringfireball.net/projects/markdown/"><img height="32" width="32" src="https://cdn.simpleicons.org/markdown/gray" /></a>
